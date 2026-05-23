@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "kanji": "明日の天気は晴れのち曇り",
+    "hiragana": "あしたのてんきははれのちくもり",
+    "roman": "asitanotenkihaharenotikumori"
+  },
+  {
+    "id": 2,
+    "kanji": "焼き肉食べ放題に行きたいな",
+    "hiragana": "やきにくたべほうだいにいきたいな",
+    "roman": "yakinikutabehoudainiikitaina"
+  },
+  {
+    "id": 3,
+    "kanji": "パソコンの画面が固まったよ",
+    "hiragana": "ぱそこんのがめんがかたまったよ",
+    "roman": "pasokonnogamengakatamattayo"
+  },
+  {
+    "id": 4,
+    "kanji": "昨日は夜更かしをして眠いな",
+    "hiragana": "きのうはよふかしをしてねむいな",
+    "roman": "kinouhayofukasiwositenemuina"
+  },
+  {
+    "id": 5,
+    "kanji": "お腹が空いて力が出ないよ",
+    "hiragana": "おなかがすいてちからがでないよ",
+    "roman": "onakagasuitetikaragadenaiyo"
+  },
+  {
+    "id": 6,
+    "kanji": "宿題を家に忘れてしまいました",
+    "hiragana": "しゅくだいをいえにわすれてしまいました",
+    "roman": "syukudaiwoieniwasuretesimaimasita"
+  },
+  {
+    "id": 7,
+    "kanji": "スマートフォンの充電がない",
+    "hiragana": "すまーとふぉんのじゅうでんがない",
+    "roman": "suma-tofonnojuudenganai"
+  },
+  {
+    "id": 8,
+    "kanji": "早起きは三文の徳と言います",
+    "hiragana": "はやおきはさんもんのとくといいます",
+    "roman": "hayaokihasanmonnotokutoiimasu"
+  },
+  {
+    "id": 9,
+    "kanji": "満員電車に揺られて通学する",
+    "hiragana": "まんいんでんしゃにゆられてつうがくする",
+    "roman": "manindensyaniyuraretetuugakusuru"
+  },
+  {
+    "id": 10,
+    "kanji": "イチゴのショートケーキを食べる",
+    "hiragana": "いちごのしょーとけーきをたべる",
+    "roman": "itigonosyo-toke-kiwotaberu"
+  },
+  {
+    "id": 11,
+    "kanji": "キーボードを叩く音が響く",
+    "hiragana": "きーぼーどをたたくおとがひびく",
+    "roman": "ki-bo-dowotatakuotogahibiku"
+  },
+  {
+    "id": 12,
+    "kanji": "図書室で静かに本を読みます",
+    "hiragana": "としょしつでしずかにほんをよみます",
+    "roman": "tosyositudesizukanihonwoyomimasu"
+  },
+  {
+    "id": 13,
+    "kanji": "今日の晩ご飯はカレーライス",
+    "hiragana": "きょうのばんごはんはかれーらいす",
+    "roman": "kyounobangohanahakare-raisu"
+  },
+  {
+    "id": 14,
+    "kanji": "目覚まし時計をセットし忘れた",
+    "hiragana": "めざましどけいをせっとしわすれた",
+    "roman": "mezamasidokeiwosettosiwasureta"
+  },
+  {
+    "id": 15,
+    "kanji": "週末は友達と映画を見に行く",
+    "hiragana": "しゅうまつはともだちとえいがをみにいく",
+    "roman": "syuumatuhatomodatitoeigawominiiku"
+  },
+  {
+    "id": 16,
+    "kanji": "プログラミングは楽しいな",
+    "hiragana": "ぷろぐらみんぐはたのしいな",
+    "roman": "puroguraminguhatanosiina"
+  },
+  {
+    "id": 17,
+    "kanji": "夏休みが待ち遠しくてたまらない",
+    "hiragana": "なつやすみがまちどおしくてたまらない",
+    "roman": "natuyasumigamatidoosikutetamaranai"
+  },
+  {
+    "id": 18,
+    "kanji": "コーヒーを飲んで一息つこう",
+    "hiragana": "こーひーをのんでひといきつこう",
+    "roman": "ko-hi-wonondehitoikitukou"
+  },
+  {
+    "id": 19,
+    "kanji": "自動販売機で冷たいお茶を買う",
+    "hiragana": "じどうはんばいきでつめたいおちゃを買う",
+    "roman": "jidouhanbaikidetumetaiotyawokau"
+  },
+  {
+    "id": 20,
+    "kanji": "雨が降ってきたから傘をさそう",
+    "hiragana": "あめがふってきたからかさをさそう",
+    "roman": "amegafuttekitakarakasawosasou"
+  }
+]

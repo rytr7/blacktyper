@@ -10,7 +10,7 @@ float paper_x = 0;
 float paper_y = 0;
 float paper_speed = 0;
 float gravity = 0.08;
-float bar_width = 350;
+float bar_width = 400;
 float bar_height = 20;
 
 int idx = 0;
@@ -32,7 +32,7 @@ void drawPaper(Paper p){
     float w = p.width;
     float h = p.height;
 
-    ellipse(paper_x, eps, 7, 7);
+    ellipse(paper_x, eps, 6, 6);
 
     stroke(10);
     for(int i=0; i<score+1; i++){
@@ -118,10 +118,11 @@ void draw() {
         String left = roman.substring(0, idx);
         String right = roman.substring(idx);
 
-        text(kanji, -300+0, -200);
-        text(right, -300+textWidth(left), -170);
+        textAlign(LEFT);
+        text(kanji, -200+0, -230);
+        text(right, -200+textWidth(left), -200);
         fill(90, 90, 90);
-        text(left, -300+0, -170);
+        text(left, -200+0, -200);
 
         // タイマーの表示
         float remaining_time = 10000 - (millis() - last_time);
